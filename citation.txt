@@ -1,0 +1,7 @@
+@inproceedings{REPO142,
+    author = "Lin, Xi and Zhen, Hui-Ling and Li, Zhenhua and Zhang, Qing-Fu and Kwong, Sam",
+    booktitle = "Advances in Neural Information Processing Systems",
+    title = "{Pareto Multi-Task Learning}",
+    volume = "32",
+    year = "2019"
+}
